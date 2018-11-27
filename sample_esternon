@@ -1,0 +1,41 @@
+# Declaring and Initializing variables in Python
+
+#Strings
+bruno = "aso"
+cuitie = "pusa"
+bullet = "kaklase ko"
+
+
+#Numerical Values
+expectation=100
+reality= 50
+
+print(bruno)
+print(cuitie)
+print(bullet)
+
+print(expectation)
+print(reality)
+
+#Arithmetic
+additon= 1+1
+subtraction= 1-1
+mutiplication= 1*1
+divison= 1/1
+modulus= 5%3
+
+
+print(addition)
+print(subraction)
+print(multiplication)
+print(divison)
+print(modulus)
+
+
+if addition > division :
+    print{hello}
+    print{hi}
+elif modulus < multiplication
+
+else:
+    {Hi}
